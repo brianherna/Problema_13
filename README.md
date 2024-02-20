@@ -5,6 +5,6 @@ En este repositorio se subio lo que es el problema numero 13 del libro, dado por
 
 # Diego Antonio Badillo Morales 230110025@itsoeh.edu.mx
 
-# Gracie Hermione Gutierrez Vazquez (230110321@itsoeh.edu.mx)
+# Gracie Hermione Gutierrez Vazquez 230110321@itsoeh.edu.mx
 
 
